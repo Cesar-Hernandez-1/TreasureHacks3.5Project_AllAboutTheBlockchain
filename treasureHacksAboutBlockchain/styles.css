@@ -1,0 +1,47 @@
+html{
+    background: black;
+    color: white;
+
+}
+
+div{
+    text-align: center;
+}
+
+ul{
+    list-style-type: none;
+    display: inline-flex;
+}
+
+li{
+    margin-right: 70px;
+    padding-right: 10px;
+    padding-left: 10px;
+    background: antiquewhite;
+    border-radius: 50px;
+}
+
+h1{
+    color: blue;
+    text-align: center;
+}
+
+#introDescription{
+    text-align: center;
+    color: moccasin;
+}
+
+p{
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+#end{
+    text-align: center;
+    color: moccasin;
+}
+
+footer{
+    font-size: 15px;
+    text-align: center;
+}
